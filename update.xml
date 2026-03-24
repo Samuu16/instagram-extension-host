@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="danedhjmcaocpafiacehdaifgmgjcgnh">
     <updatecheck 
-      codebase="https://insta-extension-host.onrender.com/extension.crx" 
+      codebase="https://instagram-extension-host.onrender.com/Boomlet-Insta-Scrapper.crx"
       version="1.0"/>
   </app>
 </gupdate>
